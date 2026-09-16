@@ -1,0 +1,32 @@
+{
+  "rooms": {
+    "general": {
+      "messages": [
+        {
+          "id": "1789559073072-ywhv2w",
+          "user": "Shubh",
+          "text": "hi",
+          "ts": 1789559073072
+        },
+        {
+          "id": "1789559083136-23i2ep",
+          "user": "aa",
+          "text": "hello",
+          "ts": 1789559083136
+        },
+        {
+          "id": "1789559112859-lbyl0x",
+          "user": "bb",
+          "text": "feel",
+          "ts": 1789559112859
+        }
+      ]
+    },
+    "random": {
+      "messages": []
+    },
+    "help": {
+      "messages": []
+    }
+  }
+}
